@@ -42,14 +42,15 @@ heading {
     
 .hero {
 	display:flex;
-	justify-content:left;
-	align-items:left;
+	justify-content:space-between;
+	align-items:center;
 	gap:50px;
 	padding:60px 20px;
 }
 
 .hero-text {
 	max-width:400px;
+	flex:1;
 }
 
 .hero-text h1 {
@@ -64,7 +65,7 @@ heading {
     font-weight:450;
 }
 
-.hero img {
+.hero-image {
   width: 250px;
   border-radius: 8px;
 }
