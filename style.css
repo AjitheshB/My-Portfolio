@@ -34,7 +34,7 @@ nav a:hover {
 	color:#2c5b75;
 }
 
-heading p {
+.heading {
 	font-size:22px;
 	font-weight:900;
 	justify-content: space-between;
