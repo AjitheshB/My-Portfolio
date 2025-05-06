@@ -20,11 +20,6 @@ I'm a high school student from India with a passion for exploring new things. I 
 - CSS3
 - Google Fonts (Poppins)
 
-## 📱 Mobile View
-
-- Navigation bar is hidden on mobile for a clean look
-- Sections stack vertically for better readability
-
 ## 🔗 Live Demo
 
 [Click here to view my portfolio](https://ajitheshb.github.io/My-Portfolio/)
