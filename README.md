@@ -27,7 +27,7 @@ I'm a high school student from India with a passion for exploring new things. I 
 
 ## 🔗 Live Demo
 
-[Click here to view my portfolio](https://ajitheshb.github.io/)
+[Click here to view my portfolio](https://ajitheshb.github.io/My-Portfolio/)
 
 ## 📂 Project Structure
 
