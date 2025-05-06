@@ -150,3 +150,69 @@ section {
  	 border-radius: 12px;
 	border:2px solid black;
 }
+
+@media (max-width: 768px) {
+
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 20px;
+  }
+
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+    padding: 0;
+  }
+
+  .hero {
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  .hero-text {
+    max-width: 100%;
+  }
+
+  .hero-text h1 {
+    font-size: 36px;
+  }
+
+  .hero-text p,
+  .hero-text h3 {
+    font-size: 18px;
+  }
+
+  .hero-image img {
+    width: 90%;
+    height: auto;
+    margin: 20px 0;
+  }
+
+  .about-container {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .about-image img,
+  .aboutt-image img {
+    width: 90%;
+    height: auto;
+  }
+
+  .about-text h2 {
+    font-size: 28px;
+  }
+
+  .about-text h3 {
+    font-size: 20px;
+  }
+
+  .about-text p {
+    font-size: 16px;
+  }
+}
