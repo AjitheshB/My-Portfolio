@@ -152,19 +152,19 @@ section {
 }
 
 @media (max-width: 768px) {
-
+	
   nav {
-    diplay: none !important;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 20px;
   }
 
   nav ul {
-    diplay:none;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0;
   }
 
-  nav a {
-    diplay:none;
-  }	
-	
   .hero {
     flex-direction: column;
     align-items: center;
