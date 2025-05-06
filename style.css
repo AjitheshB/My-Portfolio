@@ -154,7 +154,7 @@ section {
 @media (max-width: 768px) {
 
   nav {
-    diplay:none;
+    diplay: none !important;
   }
 
   nav ul {
